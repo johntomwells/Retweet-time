@@ -1,7 +1,6 @@
 # John Wells
 # Takes Data from workbook jungle:
 # which is retweet data
-# averages # of retweets for each minute
 
 import xlrd
 import csv
